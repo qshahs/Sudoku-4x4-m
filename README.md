@@ -22,4 +22,4 @@ gcc -o sudoku SUDOKU.c
 ```
 
 #### NOTE:
-> This project is not my sole creation. The other authors are *Saad Khan*, and *Umer Rashid*. This was our 1st Semester project in Computer Science in **FAST-NUCES**, **Karachi**.
+> This project is not my sole creation. The other authors are *Saad Khan*, and *Umer Rashid*. Saad Khan was responsible for Sudoku Solver, and Umer Rashid was responsible for the checking function (logic defined by me) to evaluate the game results. I was the leader and I built the entire front-end, filing, back-end game mechanism, and tested the program for any errors and glitches. This was our 1st Semester project in Computer Science in **FAST-NUCES**, **Karachi**.
