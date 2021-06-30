@@ -22,4 +22,4 @@ gcc -o sudoku SUDOKU.c
 ```
 
 #### NOTE:
-> This project is not my sole creation. The other authors are *Saad Khan*, and *Umer Rashid*. This was our 1st Semester project in Computer Science in FAST-NUCES, Karachi.
+> This project is not my sole creation. The other authors are *Saad Khan*, and *Umer Rashid*. This was our 1st Semester project in Computer Science in **FAST-NUCES**, **Karachi**.
